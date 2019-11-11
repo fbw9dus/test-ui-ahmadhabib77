@@ -19,7 +19,10 @@ Projekt für Test im UI Modul
 ![](drafts/desktop.JPG)
 ![](drafts/desktop-button-hover.JPG)
 
-###   __/60 Punkten
+###   0/60 Punkten
+```diff
+- keine commits
+```
 #### Punktabzüge für:
 - [_] (10) Elemente passen sich nicht an Fensterbreite an
 - [_] (10) Tags nicht geschlossen oder falsch verschachtelt
